@@ -1,16 +1,18 @@
-### Hi there 👋
+ Hi 👋 My name is Ashish
 
-<!--
-**Ashish231047/Ashish231047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Frontens Web-Developer | Completed my Bachelor's Degree in Computer Applications with a overall CGPA of 9.03
 
-Here are some ideas to get you started:
+🌍 I’m based in Pune, Maharashtra.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at ap231047@gmail.com
+
+🤝  I'm open to collaborating on any interesting Web Development Project.
+
+⚡  I have experience in converting Web application.
+
+#Skills
+
+C C++ JavaScript Python TypeScript HTML5 Angular CSS3 Bootstrap NodeJS MySQL Firebase 
+
+#Social
+
