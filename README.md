@@ -13,6 +13,3 @@
 #Skills
 
 C C++ JavaScript Python TypeScript HTML5 Angular CSS3 Bootstrap NodeJS MySQL Firebase 
-
-#Social
-
