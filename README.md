@@ -110,16 +110,6 @@ Passionate QA Engineer with hands-on experience in Automation Testing, API Valid
 
 ---
 
-# 📈 GitHub Stats
-
-```markdown id="j97r5x"
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish231047&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish231047&layout=compact&theme=tokyonight)
-```
-
----
-
 # 🌱 Currently Learning
 
 * Advanced Automation Framework Architecture
